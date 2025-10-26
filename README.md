@@ -1,4 +1,4 @@
-# Recursive Shamir-Based Encryption (RSBE): A Hybrid Post-Quantum Symmetric Scheme for Scalable and Secure Cloud Data Protection
+# RSBE: Recursive Shamir-Based Encryption for Hybrid Post-Quantum Security and Cloud-Scale Data Protection
 
 **Author:** Kamel Mohamed Faraoun  
 **Affiliation:** Computer Science Department, EEDIS Laboratory,  
