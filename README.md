@@ -1,6 +1,6 @@
 # RSBE: Recursive Shamir-Based Encryption for Hybrid Post-Quantum Security and Cloud-Scale Data Protection
 
-**Author:** Kamel Mohamed Faraoun  
+**Author:** Ilhem DJEZIRI, Kamel Mohamed Faraoun  
 **Affiliation:** Computer Science Department, EEDIS Laboratory,  
 Djilalli Liabbes University, Sidi Bel Abbès, Algeria  
 *kamel.faraoun@univ-sba.dz*
