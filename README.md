@@ -68,7 +68,7 @@ You are free to use, modify, and distribute it with appropriate citation to the 
 
 
 ## Author
-** Ilhem DJEZIRI, FARAOUN Kamel Mohamed**  
+**Ilhem DJEZIRI, FARAOUN Kamel Mohamed**  
 Security and Multimedia Research Team  
 Computer Science Department, EEDIS Laboratory,  
 Djilalli Liabbes University, Sidi Bel Abbès, Algeria  
