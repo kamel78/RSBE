@@ -3,7 +3,7 @@
 **Author:** Ilhem DJEZIRI, Kamel Mohamed Faraoun  
 **Affiliation:** Computer Science Department, EEDIS Laboratory,  
 Djilalli Liabbes University, Sidi Bel Abbès, Algeria  
-*kamel.faraoun@univ-sba.dz*
+*kamel.faraoun@univ-sba.dz*, *ilhemdjeziri@gmail.com*
 
 ##  Overview
 
